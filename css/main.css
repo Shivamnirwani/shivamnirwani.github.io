@@ -409,7 +409,7 @@ h6 {
 
 #progress-bar {
   height: 5px;
-  background-color: #68d372;
+  background-color: #7DF9FF;
   width: 0%;
 }
 
@@ -552,7 +552,7 @@ h6 {
 
 .intro-p-url:hover {
   cursor: pointer;
-  color: #68d372 !important;
+  color: #7DF9FF !important;
   text-decoration: underline;
   animation: rubberBand;
   animation-duration: 1s;
@@ -696,7 +696,7 @@ h6 {
 }
 
 #skills .container .div-card-item:hover #skills .container .div-card span {
-  color: #68d372;
+  color: #7DF9FF;
 }
 
 #skills .container .div-card .skill-level {
@@ -1073,8 +1073,8 @@ h6 {
 
 #intro .button {
   color: white;
-  background-color: #68d372;
-  border: 2px solid #68d372;
+  background-color: #7DF9FF;
+  border: 2px solid #7DF9FF;
   padding: 8px 20px;
 }
 
@@ -1084,12 +1084,12 @@ h6 {
 }
 
 .swal-icon--success__ring {
-  border: 4px solid #68d372;
+  border: 4px solid #7DF9FF;
 }
 
 .swal-icon--success__line--long,
 .swal-icon--success__line--tip {
-  background-color: #68d372;
+  background-color: #7DF9FF;
 }
 
 .swal-icon--success::before,
@@ -1101,12 +1101,12 @@ h6 {
 .swal-button {
   padding: 8px;
   width: 80px;
-  background-color: #68d372;
+  background-color: #7DF9FF;
 }
 
 .swal-button:hover,
 .swal-button:active {
-  background-color: #68d372 !important;
+  background-color: #7DF9FF !important;
 }
 
 
@@ -1580,7 +1580,7 @@ h6 {
     content: "";
     left: -1.5px !important;
     top: -1px !important;
-    background: #68d372;
+    background: #7DF9FF;
     transition-duration: 0.3s;
     z-index: -1;
     inset: 0px auto auto 0px;
